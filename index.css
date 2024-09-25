@@ -1,0 +1,26 @@
+.main_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: red;
+}
+
+#topParcentDiv,
+#bill_amount{
+    width: 200px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    padding: 3px 5px;
+}
+
+.btnStyle{
+    width: 100px;
+    color: bisque;
+    background-color: black;
+    padding: 5px 10px;
+    font-size: 12px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
